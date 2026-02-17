@@ -1,0 +1,85 @@
+{
+  "next_id": 9,
+  "songs": [
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "duration_seconds": 232,
+      "genre": "Pop / Disco",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/ABBA - Dancing Queen (Official Music Video).mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/ABBA_-_Dancing_Queen.png",
+      "id": 1
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "duration_seconds": 233,
+      "genre": "Soul / Pop",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Adele - Rolling in the Deep (Official Music Video).mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Adele_-_Rolling_in_the_Deep.png",
+      "id": 2
+    },
+    {
+      "title": "Nour El Ein",
+      "artist": "Amr Diab",
+      "duration_seconds": 300,
+      "genre": "Egyptian Pop",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Amr Diab - Nour El Ein .mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/amr diab.png",
+      "id": 3
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "duration_seconds": 237,
+      "genre": "Pop",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Ed Sheeran - Shape of You (Official Music Video).mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Shape_Of_You_(Official_Single_Cover)_by_Ed_Sheeran.png",
+      "id": 4
+    },
+    {
+      "title": "El Donia Helwa",
+      "artist": "Nancy Ajram",
+      "duration_seconds": 214,
+      "genre": "Egyptian Pop",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/El Donia Helwa - Nancy Ajram  .mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/nancy ajram.png",
+      "id": 5
+    },
+    {
+      "title": "Animals (Trap Remix)",
+      "artist": "Martin Garrix",
+      "duration_seconds": 237,
+      "genre": "Trap / Electronic",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Martin Garrix - Animals (Gioni Trap Remix).mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/animals.png",
+      "id": 6
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "duration_seconds": 200,
+      "genre": "Synth-Pop / Electronic",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/The Weeknd - Blinding Lights (Official Video).mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/The_Weeknd_-_Blinding_Lights.png",
+      "id": 7
+    },
+    {
+      "title": "See You Again",
+      "artist": "Wiz Khalifa ft. Charlie Puth",
+      "duration_seconds": 237,
+      "genre": "Hip-hop / Pop",
+      "rating": 5,
+      "filepath": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
+      "cover_path": "M:/Books VUT/Computer Programming 2/Smart Song Collector & Playlist Manager/Wiz_Khalifa_Feat._Charlie_Puth_-_See_You_Again_(Official_Single_Cover).png",
+      "id": 8
+    }
+  ]
+}
